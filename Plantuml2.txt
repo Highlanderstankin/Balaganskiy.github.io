@@ -10,13 +10,12 @@ skinparam usecase {
 	BorderColor Black
 }
 left to right direction
-actor P0 as "person?"
-actor M0 as "module?"
-actor P as "?"
-actor M as "?"
-usecase A as "activity?"
-P -- (A)
-(A) -- M
-P0 <|-- P
+actor P0 as "Студент"
+actor M0 as "систему"
+
+actor M as "Программнымобмеспечением"
+usecase A as "делать"
+(A) --|> M
+P0 --|> (A)
 M --|> M0
 @enduml
