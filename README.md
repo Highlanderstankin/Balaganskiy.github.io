@@ -7,6 +7,10 @@
 * [рис1](https://github.com/Highlanderstankin/Balaganskiy.githup.io/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B01.png)
 * [рис2](https://github.com/Highlanderstankin/Balaganskiy.githup.io/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B02.png)
 # Лабораторная работа №2
+* [IDEF0 6 вопросов](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0.PNG)
+* [IDEF0 DO](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20DO.PNG)
+* [DFD](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/DFD.PNG)
+* [Диаграмма прецендентов](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B4%D0%B5%D0%BD%D1%82%D1%8B.jpg)
 # Лабораторная работа №3
 # Лабораторная работа №4
 # Лабораторная работа №5
