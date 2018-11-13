@@ -20,13 +20,13 @@
 # Лабораторная работа №4
 * Тема курсовой работы: "Подсистема индивидуальных тренировок по лёгкой атлетике".
 * Функциональная модель разрабатывается с точки зрения разработчика, который непосредственно занимается созданием запланированного мобильного приложения для автоматизации индивидуальных тренировок по лёгкой атлетике.
-* [IDEF0 Контекстная](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%E2%84%961.PNG)
-* [IDEF0 процессов](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%E2%84%962.PNG)
-* [IDEF0 декомпозиция процесса управления](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%E2%84%963.PNG)
-* [IDEF0 декомпозиция процесса разработки](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%E2%84%964.PNG)
-* [IDEF0 декомпозиция процесса проверки](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%E2%84%965.PNG)
+* [IDEF0 Контекстная](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F.PNG)
+* [IDEF0 процессов](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2.PNG)
+* [IDEF0 декомпозиция процесса управления](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.PNG)
+* [IDEF0 декомпозиция процесса разработки](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.PNG)
+* [IDEF0 декомпозиция процесса проверки](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/IDEF0%20%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8.PNG)
 # Лабораторная работа №5
-* [DFD](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/DFD.PNG)
+* [DFD](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20DFD.PNG)
 * [Классификаторы](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89.PNG)
 "Пользователи" - хранит освновную информацию о зарегистрированном пользователе (к примеру, - id,ФИО и т.д.);
 "Тренер" - хранит информацию о тренерах (к примеру, - id, ФИО, тип тренера и т.д.);
