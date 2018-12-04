@@ -37,25 +37,32 @@
 * Определение конфигурации программных средств: IDE "Android Studio" - которая является многоуровневым программным средством.
 * Определение допустимых видов хранилищ и их размещения: реалиционная база данных
 * Декомпозиция в диаграмму потоков данных DFD была произведена из блока А34.
-* Диграмма потоков данных [DFD](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/DFD.PNG)
+* DFD:
+![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/DFD.PNG)
 * Типы блоков DFD: 1-3 блоки представляют собой экранную форму, а 4 модуль обработки
-* [Классификаторы](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89.PNG)
+* Классификаторы:
+![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89.PNG)
     * "Пользователи" - хранит освновную информацию о зарегистрированном пользователе (к примеру, - id,ФИО и т.д.);
     * "Тренер" - хранит информацию о тренерах (к примеру, - id, ФИО, тип тренера и т.д.);
     * "Тренировка" - хранит информацию о тренировках (к примеру, - id, вид тренировки, время и т.д.);
     * "Пройденные тренировки" -  хранит информацию о пройденных тренировках (id, время и т.д.).
 * В данной DFD отображено как осуществляется поток данных в подсистеме: 1) Сперва происходит регистрация, где данные из регистрации поступают в БД "Пользователи"; 2) После регистрации пользователю предлагается выбрать тренера (где тренер берётся из БД "Тренер"); 3) когда тренер был выбран предлагается выбор тренировок, которые подтягиваются из БД "Тренировка"; 4) После пройденной тренировки, информация о выполнение отправляется в БД "Пройденные тренировки"
-* [Схема данных](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.PNG)
+* Схема данных:
+![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.PNG)
     * В схеме данных отражены все таблицы находящееся в БД, и указаны все столбцы, которые в них хранятся.
 * [Ссылка на модель](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.rsf)
 # Лабораторная работа №6
 * Завершение идентификации всех потоков путём построения ERD (диаграммы классов без атрибутов) для всех потоков
-    * [ERD для потоков](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.jpg)
+    * ERD для потоков:
+    ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.jpg)
 * Завершение идентификации всех ролей путём построения ERD (диаграммы классов без атрибутов) для всех ролей
-    * [ERD для ролей](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%20%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.jpg)
+    * ERD для ролей:
+    ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%20%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.jpg)
 * Завершение идентификации всех модулей путём построения ERD (диаграммы классов без атрибутов) для всех модулей
-    * [ERD для модулей](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/ERD%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.PNG)
-* [Диаграмма последовательности](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.PNG)
+    * ERD для модулей:
+    ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/ERD%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.PNG)
+    * Диаграмма последовательности:
+![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.PNG)
 # Курсовой проект
 ##  Эффективность
 ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C.png)
