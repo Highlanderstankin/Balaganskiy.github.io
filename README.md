@@ -40,8 +40,8 @@
 * DFD:
 ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/DFD.PNG)
 * Типы блоков DFD: 1-3 блоки представляют собой экранную форму, а 4 модуль обработки
-* Классификаторы:
-* ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89.PNG)
+* Классификаторы: 
+![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89.PNG)
     * "Пользователи" - хранит освновную информацию о зарегистрированном пользователе (к примеру, - id,ФИО и т.д.);
     * "Тренер" - хранит информацию о тренерах (к примеру, - id, ФИО, тип тренера и т.д.);
     * "Тренировка" - хранит информацию о тренировках (к примеру, - id, вид тренировки, время и т.д.);
@@ -57,6 +57,7 @@
     ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.jpg)
 * Завершение идентификации всех ролей путём построения ERD (диаграммы классов без атрибутов) для всех ролей
     * ERD для ролей:
+    
     ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%20%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.jpg)
 * Завершение идентификации всех модулей путём построения ERD (диаграммы классов без атрибутов) для всех модулей
     * ERD для модулей:
