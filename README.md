@@ -22,7 +22,7 @@
 * Функциональная модель разрабатывается с точки зрения владельца продукта, который непосредственно занимается созданием запланированного мобильного приложения для автоматизации индивидуальных тренировок по лёгкой атлетике.
 * Целью моделирования является наглядное представления всех процессов разработки ПО начиная с задумки, заканчивая готовым продуктом.
 * Объектом исследования является процесс разработки мобильного приложения для планирования индивидуальных тренировок по лёгкой атлетике.
-! [IDEF0 Контекстная](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%E2%84%961.PNG)
+![IDEF0 Контекстная](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%E2%84%961.PNG)
 * [IDEF0 процессов](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B.PNG)
 * [IDEF0 декомпозиция процесса определения требований](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%E2%84%963.PNG)
 * [IDEF0 декомпозиция процесса разработки](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/%D0%94%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.PNG)
